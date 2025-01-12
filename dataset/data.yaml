@@ -1,6 +1,0 @@
-train: /Users/michalkozicki/A2RL/yolo_segmentation/train/images
-val: /Users/michalkozicki/A2RL/yolo_segmentation/valid/images
-test: /Users/michalkozicki/A2RL/yolo_segmentation/test/images
-
-names: 
-  0: gate
